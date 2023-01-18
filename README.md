@@ -25,7 +25,6 @@ def circulate():
 l=eval(input())
 n=int(input())
 ```python
-
 ## Output:
 ![](cr.png)
 ## Result:
