@@ -15,17 +15,20 @@ Using the slicing concept rotate the list
 ### Step 5: 
 ### Step 6: print the result
 ## Program:
+```python
 #Program to circulate N values.
 #Developed by: kavya.k
 #RegisterNumber:22008613
-```python
+```
 def circulate():
     circul = l[n:]+l[:n]
     print('After circulating the values are:',circul)
 l=eval(input())
 n=int(input())
-```python
-## Output:
+```
+
+### Output:
 ![](cr.png)
+
 ## Result:
 The circulating values are successfully found by python programing
