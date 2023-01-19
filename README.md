@@ -19,7 +19,6 @@ Using the slicing concept rotate the list
 #Program to circulate N values.
 #Developed by: kavya.k
 #RegisterNumber:22008613
-```
 def circulate():
     circul = l[n:]+l[:n]
     print('After circulating the values are:',circul)
